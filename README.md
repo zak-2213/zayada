@@ -4,6 +4,6 @@ Zayada is an Arabic version of makemore, which I have coded by following along A
 
 Neural networks implemented:
 - Bigram model: loss = 2.71
-- Multi-Layer Perceptron (MLP): loss = 2.6
+- Multi-Layer Perceptron (MLP): loss = 2.45
 
 Youtube tutorial playlist: https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
